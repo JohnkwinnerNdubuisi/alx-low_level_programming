@@ -3,14 +3,10 @@
 
 
 /**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * main - print _putchar
+ * is written by johnkennedy
+ * Return: 0
+*/
 
 
 
