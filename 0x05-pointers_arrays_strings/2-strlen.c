@@ -5,7 +5,7 @@
 
 
 /**
- * _strlen - a function to print the length of a string
+ * _strlen - returns the length to the string
  *
  * @s: string
  *
