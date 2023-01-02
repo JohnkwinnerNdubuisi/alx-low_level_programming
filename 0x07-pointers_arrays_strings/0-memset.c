@@ -7,17 +7,16 @@
  * @s: pointer to memory area.
  * @b: constant to fill memory with.
  * @n: bytes of the memory area to be filled.
-
- Return: 0
+ *Return: 0
 */
 
-char *_memcpy(char *dest, char *src, unsigned int n)
-
+char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int counter;
 
 	for (counter = 0; counter < n; counter++)
 
+		while
 	{
 		s[counter] = b;
 	}
